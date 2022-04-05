@@ -1,0 +1,1 @@
+#Simplify registration process avoding write password twice 
